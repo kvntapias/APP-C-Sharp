@@ -1,0 +1,32 @@
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\bin\Debug\CAD.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\bin\Debug\DTO.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\CAD\obj\Debug\CAD.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\bin\Debug\CAD.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\bin\Debug\CAD.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\bin\Debug\DTO.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\bin\Debug\DTO.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\obj\Debug\CAD.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\CAD\obj\Debug\CAD.pdb

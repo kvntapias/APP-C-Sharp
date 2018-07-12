@@ -1,0 +1,20 @@
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\DTO\bin\Debug\DTO.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\DTO\obj\Debug\DTO.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\bin\Debug\DTO.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\bin\Debug\DTO.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\obj\Debug\DTO.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\DTO\obj\Debug\DTO.pdb

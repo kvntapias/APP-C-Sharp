@@ -1,0 +1,128 @@
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe.config
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.baml
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.baml
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.baml
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.baml
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.g.cs
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.g.cs
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.g.cs
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.g.cs
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.cache
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.g.resources
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.Properties.Resources.resources
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.exe
+C:\Users\APRENDIZ\Videos\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe.config
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.baml
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.baml
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.baml
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.baml
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.g.cs
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.g.cs
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.g.cs
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.g.resources
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.Properties.Resources.resources
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.GenerateResource.Cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.exe
+C:\Users\sebas\Desktop\C# EventNow\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csprojResolveAssemblyReference.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\login.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\MainWindow.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\perfil.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarEvento.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarUsuario.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\App.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.lref
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe.config
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\APPEventNow.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\CAD.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\DTO.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\perfil.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\registrarUsuario.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.g.resources
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.Properties.Resources.resources
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.GenerateResource.Cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.exe
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\APPEventNow.pdb
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\actualizarPerfil.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\actualizarPerfil.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\suscripciones.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\suscripciones.baml
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\eliminarUsuario.g.cs
+C:\Users\FAMILIA\Desktop\AppEventnow\APPEventNow\APPEventNow\obj\Debug\eliminarUsuario.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\MainWindow.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\registrarEvento.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\App.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\Busqueda-Eliminar.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\EditarEvento.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\GestionEventos.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\MainWindow.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\registrarEvento.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\App.g.cs
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow_MarkupCompile.lref
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe.config
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\APPEventNow.exe
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\APPEventNow.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\CAD.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\DTO.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\CAD.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\DTO.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\Busqueda-Eliminar.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\EditarEvento.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\GestionEventos.baml
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.g.resources
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.Properties.Resources.resources
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.GenerateResource.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.csproj.CopyComplete
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.exe
+C:\Users\Sebas\Pictures\AppEventnow - copia\APPEventNow\APPEventNow\obj\Debug\APPEventNow.pdb
